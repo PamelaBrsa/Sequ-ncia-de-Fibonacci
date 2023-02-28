@@ -1,4 +1,4 @@
-# Sequ-ncia-de-Fibonacci
+# Sequencia-de-Fibonacci
 T1 = 0
 T2 = 1
 T3 = 0
